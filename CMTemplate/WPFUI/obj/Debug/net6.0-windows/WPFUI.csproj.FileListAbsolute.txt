@@ -1,0 +1,5 @@
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net6.0-windows\Views\ShellView.g.cs
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net6.0-windows\WPFUI_MarkupCompile.cache
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net6.0-windows\WPFUI_MarkupCompile.lref

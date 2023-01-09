@@ -1,0 +1,6 @@
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net48\WPFUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net48\Views\ShellView.g.cs
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net48\App.g.cs
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net48\GeneratedInternalTypeHelper.g.cs
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net48\WPFUI_MarkupCompile.cache
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net48\WPFUI_MarkupCompile.lref
