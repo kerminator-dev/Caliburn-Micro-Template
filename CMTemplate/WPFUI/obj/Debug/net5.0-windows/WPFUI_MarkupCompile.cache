@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\App.xaml
-3-280962735
+5900405794
 
 10-1862050984
 1971321015908
-Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
+Themes\dark.xaml;Themes\light.xaml;Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
 
 False
 

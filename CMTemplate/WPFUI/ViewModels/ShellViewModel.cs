@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 using WPFUI.Models;
 
 namespace WPFUI.ViewModels
@@ -33,6 +34,29 @@ namespace WPFUI.ViewModels
 
                 base.NotifyOfPropertyChange(() => LastName);
                 base.NotifyOfPropertyChange(() => FullName);
+            }
+        }
+
+        public List<string> Themes
+        {
+            get => new List<string>() { "light", "dark" };
+        }
+
+        private string _selectedTheme;
+        public string SelectedTheme
+        {
+            get => _selectedTheme;
+            set
+            {
+                _selectedTheme = value; 
+                // определяем путь к файлу ресурсов
+                var uri = new Uri("Themes/" + value + ".xaml", UriKind.Relative);
+                // загружаем словарь ресурсов
+                ResourceDictionary resourceDict = Application.LoadComponent(uri) as ResourceDictionary;
+                // очищаем коллекцию ресурсов приложения
+                Application.Current.Resources.Clear();
+                // добавляем загруженный словарь ресурсов
+                Application.Current.Resources.MergedDictionaries.Add(resourceDict);
             }
         }
 

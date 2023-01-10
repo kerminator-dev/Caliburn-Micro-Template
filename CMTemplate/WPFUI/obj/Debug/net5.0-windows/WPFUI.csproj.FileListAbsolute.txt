@@ -28,6 +28,8 @@ C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\W
 C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\WPFUI.genruntimeconfig.cache
 C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\Views\FirstChildView.g.cs
 C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\Views\FirstChildView.baml
-C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\WPFUI.csproj.AssemblyReference.cache
 C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\Views\SecondChildView.g.cs
 C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\Views\SecondChildView.baml
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\Themes\dark.baml
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\Themes\light.baml
+C:\Users\525.khokhlovns\source\repos\clones\Caliburn-Micro-Template\CMTemplate\WPFUI\obj\Debug\net5.0-windows\WPFUI.csproj.AssemblyReference.cache

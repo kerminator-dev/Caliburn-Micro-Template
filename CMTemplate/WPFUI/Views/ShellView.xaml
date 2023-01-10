@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:WPFUI.Views" xmlns:viewmodels="clr-namespace:WPFUI.ViewModels" xmlns:cal="http://caliburnmicro.com" d:DataContext="{d:DesignInstance Type=viewmodels:ShellViewModel}"
         mc:Ignorable="d"
         FontSize="18"
+        Style="{DynamicResource WindowStyle}"
         Title="ShellView" Height="265" Width="247" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
@@ -28,6 +29,11 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="20" />
         </Grid.RowDefinitions>
+
+        <ComboBox Name="Themes"
+                  Grid.Row="0"
+                  Grid.Column="1"
+                  SelectedItem="SelectedTheme"/>
 
         <TextBlock x:Name="FullName"
                    Grid.Row="1"
